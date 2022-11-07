@@ -1,0 +1,15 @@
+C:\Users\danh\Desktop\code\Source code\Photoelastic Analysis\CNNdetect\CNNdetect\bin\Debug\net6.0\CNNdetect.exe
+C:\Users\danh\Desktop\code\Source code\Photoelastic Analysis\CNNdetect\CNNdetect\bin\Debug\net6.0\CNNdetect.deps.json
+C:\Users\danh\Desktop\code\Source code\Photoelastic Analysis\CNNdetect\CNNdetect\bin\Debug\net6.0\CNNdetect.runtimeconfig.json
+C:\Users\danh\Desktop\code\Source code\Photoelastic Analysis\CNNdetect\CNNdetect\bin\Debug\net6.0\CNNdetect.dll
+C:\Users\danh\Desktop\code\Source code\Photoelastic Analysis\CNNdetect\CNNdetect\bin\Debug\net6.0\CNNdetect.pdb
+C:\Users\danh\Desktop\code\Source code\Photoelastic Analysis\CNNdetect\CNNdetect\obj\Debug\net6.0\CNNdetect.csproj.AssemblyReference.cache
+C:\Users\danh\Desktop\code\Source code\Photoelastic Analysis\CNNdetect\CNNdetect\obj\Debug\net6.0\CNNdetect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danh\Desktop\code\Source code\Photoelastic Analysis\CNNdetect\CNNdetect\obj\Debug\net6.0\CNNdetect.AssemblyInfoInputs.cache
+C:\Users\danh\Desktop\code\Source code\Photoelastic Analysis\CNNdetect\CNNdetect\obj\Debug\net6.0\CNNdetect.AssemblyInfo.cs
+C:\Users\danh\Desktop\code\Source code\Photoelastic Analysis\CNNdetect\CNNdetect\obj\Debug\net6.0\CNNdetect.csproj.CoreCompileInputs.cache
+C:\Users\danh\Desktop\code\Source code\Photoelastic Analysis\CNNdetect\CNNdetect\obj\Debug\net6.0\CNNdetect.dll
+C:\Users\danh\Desktop\code\Source code\Photoelastic Analysis\CNNdetect\CNNdetect\obj\Debug\net6.0\refint\CNNdetect.dll
+C:\Users\danh\Desktop\code\Source code\Photoelastic Analysis\CNNdetect\CNNdetect\obj\Debug\net6.0\CNNdetect.pdb
+C:\Users\danh\Desktop\code\Source code\Photoelastic Analysis\CNNdetect\CNNdetect\obj\Debug\net6.0\CNNdetect.genruntimeconfig.cache
+C:\Users\danh\Desktop\code\Source code\Photoelastic Analysis\CNNdetect\CNNdetect\obj\Debug\net6.0\ref\CNNdetect.dll
